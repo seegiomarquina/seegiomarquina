@@ -4,7 +4,7 @@ import urllib.request
 import json
 import html
 
-USERNAME = "adityadhage1"
+USERNAME = "seegiomarquina"
 TOKEN = os.environ.get("ACCESS_TOKEN", "")
 START_DATE = datetime.date(2024, 8, 1)  # B.Sc. Data Science / Dev start date
 
